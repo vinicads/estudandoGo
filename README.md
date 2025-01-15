@@ -13,6 +13,8 @@ Explorar e aprender os conceitos fundamentais de Go, incluindo:
 - **/Pacotes**: Exemplos de manipulação e organização de pacotes.
 - **/Variaveis**: Exemplos de manipulação de variaveis.
 - **/Tipos de Dados**: Exemplos dos tipos de dados em GO.
+- **/Funcoes**: Exemplos das functions em GO.
+
 ## Tecnologias Utilizadas
 - [Go](https://golang.org/)
 
