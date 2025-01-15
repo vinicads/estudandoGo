@@ -11,7 +11,8 @@ Explorar e aprender os conceitos fundamentais de Go, incluindo:
 
 ## Estrutura do Repositório
 - **/Pacotes**: Exemplos de manipulação e organização de pacotes.
-
+- **/Variaveis**: Exemplos de manipulação de variaveis.
+- **/Tipos de Dados**: Exemplos dos tipos de dados em GO.
 ## Tecnologias Utilizadas
 - [Go](https://golang.org/)
 
