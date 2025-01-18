@@ -17,6 +17,7 @@ Explorar e aprender os conceitos fundamentais de Go, incluindo:
 - **/Operadores**: Exemplos dos operadores em GO.
 - **/Structs**: Exemplos dos structs em GO.
 - **/Heranca**: Exemplos de "herança" em GO.
+- **/ArraysSlices**: Exemplos de arrays e slices em GO.
 
 ## Tecnologias Utilizadas
 - [Go](https://golang.org/)
