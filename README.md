@@ -15,6 +15,7 @@ Explorar e aprender os conceitos fundamentais de Go, incluindo:
 - **/Tipos de Dados**: Exemplos dos tipos de dados em GO.
 - **/Funcoes**: Exemplos das functions em GO.
 - **/Operadores**: Exemplos dos operadores em GO.
+- **/Structs**: Exemplos dos structs em GO.
 
 ## Tecnologias Utilizadas
 - [Go](https://golang.org/)
