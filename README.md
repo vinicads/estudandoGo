@@ -19,6 +19,7 @@ Explorar e aprender os conceitos fundamentais de Go, incluindo:
 - **/Heranca**: Exemplos de "herança" em GO.
 - **/ArraysSlices**: Exemplos de arrays e slices em GO.
 - **/Ponteiros**: Aprendendo ponteiros em GO.
+- **/Maps**: Aprendendo maps em GO e como usar.
 
 ## Tecnologias Utilizadas
 - [Go](https://golang.org/)
