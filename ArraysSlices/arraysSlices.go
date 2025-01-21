@@ -36,4 +36,18 @@ func main() {
 	fmt.Println("-----------------------------------------------------------------------------------")
 	fmt.Println(reflect.TypeOf(array1))
 	fmt.Println(reflect.TypeOf(slice))
+
+	//Arrays internos
+	slice3 := make([]float32, 10, 11)
+	fmt.Println("-----------------------------------------------------------------------------------")
+	fmt.Println(slice3)
+	fmt.Println(len(slice3))//tamanho
+	fmt.Println(cap(slice3))//capacidade
+
+	fmt.Println("-----------------------------------------------------------------------------------")
+	slice3 = append(slice3, 1)
+	slice3 = append(slice3, 2)
+	fmt.Println(slice3)
+	fmt.Println(len(slice3))
+	fmt.Println(cap(slice3))
 }
