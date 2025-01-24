@@ -21,6 +21,7 @@ Explorar e aprender os conceitos fundamentais de Go, incluindo:
 - **/Ponteiros**: Aprendendo ponteiros em GO.
 - **/Maps**: Aprendendo maps em GO e como usar.
 - **/Estruturas de Controle**: Aprendendo as estruturas de controle em GO.
+- **/Switch**: Aprendendo o uso de switch em GO.
 
 ## Tecnologias Utilizadas
 - [Go](https://golang.org/)
