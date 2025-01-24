@@ -22,6 +22,7 @@ Explorar e aprender os conceitos fundamentais de Go, incluindo:
 - **/Maps**: Aprendendo maps em GO e como usar.
 - **/Estruturas de Controle**: Aprendendo as estruturas de controle em GO.
 - **/Switch**: Aprendendo o uso de switch em GO.
+- **/Loops**: Aprendendo o uso do for em GO.
 
 ## Tecnologias Utilizadas
 - [Go](https://golang.org/)
