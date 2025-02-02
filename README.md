@@ -24,6 +24,7 @@ Explorar e aprender os conceitos fundamentais de Go, incluindo:
 - **/Switch**: Aprendendo o uso de switch em GO.
 - **/Loops**: Aprendendo o uso do for em GO.
 - **/Func Avancadas**: Vendo funcoes avancadas em GO.
+- **/Metodos**: Vendo metodos em GO.
 
 ## Tecnologias Utilizadas
 - [Go](https://golang.org/)
