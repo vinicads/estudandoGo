@@ -29,6 +29,8 @@ Explorar e aprender os conceitos fundamentais de Go, incluindo:
 - **/Concorrencia**: Estudando concorrencia em GO.
 - **/Testes Automatizados**: Estudando testes automatizados em GO.
 - **/JSON**: Estudando JSON em GO.
+- **/HTTP**: Estudando HTTP em GO.
+- **/HTML**: Estudando HTML com GO.
 
 ## Tecnologias Utilizadas
 - [Go](https://golang.org/)
