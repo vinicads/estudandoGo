@@ -26,7 +26,8 @@ Explorar e aprender os conceitos fundamentais de Go, incluindo:
 - **/Func Avancadas**: Vendo funcoes avancadas em GO.
 - **/Metodos**: Vendo metodos em GO.
 - **/Interfaces**: Vendo interfaces em GO.
-- **/Concorrencia**: Estudando concorrrrencia em GO.
+- **/Concorrencia**: Estudando concorrencia em GO.
+- **/Testes Automatizados**: Estudando testes automatizados em GO.
 
 ## Tecnologias Utilizadas
 - [Go](https://golang.org/)
